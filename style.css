@@ -1,0 +1,10 @@
+.button_panel {
+    display: block;
+    position: relative;
+    align-content: center;
+}
+
+.work_area {
+    background-color: cyan;
+    height: 100vmin;
+}
